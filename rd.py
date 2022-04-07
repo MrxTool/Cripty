@@ -1,2 +1,1 @@
-
-bk = raw_input("Masukkan Jumla: ")
+raw_input("Masukkan Jumla: ")
